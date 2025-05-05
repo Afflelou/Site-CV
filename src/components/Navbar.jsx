@@ -27,7 +27,7 @@ const Navbar = () => {
           <FaLinkedin />
         </a>
         <a
-          href="https://www.github.com/Syman77680"
+          href="https://github.com/Afflelou"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="GitHub"
