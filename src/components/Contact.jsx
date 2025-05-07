@@ -6,10 +6,14 @@ const Contact = () => {
       <h2 className="my-10 text-center text-4xl">Me contacter</h2>
       <div className="text-center tracking-tighter">
         <p className="my-4">{CONTACT.address}</p>
-        <p className="my-4">{CONTACT.phoneNo}</p>
-        <a href="mailto:cedric.chung@epitech.eu" className="border-b">
-          {CONTACT.email}
+        <a href="tel:+33677630765" className="my-4">
+          {CONTACT.phoneNo}
         </a>
+        <p>
+          <a href="mailto:cedric.chung@epitech.eu" className="border-b">
+            {CONTACT.email}
+          </a>
+        </p>
       </div>
     </div>
   );
