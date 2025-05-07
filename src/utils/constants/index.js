@@ -1,6 +1,6 @@
 export const HERO_CONTENT = `Issu d’une formation en informatique de 5 ans à
 EPITECH Paris, j'ai pu accomplir divers projets afin de découvrir bon nombre d'outils et langages informatiques de base, en commençant par le C et le C++, jusqu'à la création de sites web, en passant par le Python, l'assembleur etc...
-après une spécialisation en management informatique, j'ai effectué mes premières expériences professionnelles en tant que Product Owner. Mais je souhaite aujourd'hui élargir mes connaissances techniques et m'y investir d'avantage, notamment dans le développement web.
+Après une spécialisation en management informatique, j'ai effectué mes premières expériences professionnelles en tant que Product Owner. Mais je souhaite aujourd'hui élargir mes connaissances techniques et m'y investir davantage, notamment dans le développement web.
 C'est pourquoi je recherche aujourd'hui une alternance de 12 à 24 mois dans le cadre de ma formation OpenClassrooms.`;
 
 export const EXPERIENCES = [
