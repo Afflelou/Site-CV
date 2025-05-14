@@ -21,7 +21,7 @@ function Experience() {
               {experience.technologies.map((tech, index) => (
                 <span
                   key={index}
-                  className="text-pretty mr-2 mt-4 rounded-full bg-stone-700 px-2 py-1 text-sm font-medium text-stone-300 md:text-nowrap"
+                  className="mr-2 mt-4 rounded-full bg-stone-700 px-2 py-1 text-sm font-medium text-stone-300 md:text-nowrap"
                 >
                   {tech}
                 </span>
